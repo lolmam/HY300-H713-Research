@@ -1,5 +1,9 @@
 # HY300 Pro+ (Magcubic) – Full Firmware Dump & Root Guide
 
+### **Disclaimer:** 
+The procedures and information contained in this document are provided for educational and research purposes only. I am not responsible for any damage, data loss, or other consequences resulting from attempts to follow these steps. Use at your own risk.
+
+
 ## Device Overview
 
 * Model: HY300 Pro+
